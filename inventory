@@ -1,0 +1,17 @@
+#!/bin/bash
+
+if [ $? -e 0 ]
+then
+echo"sucess"
+else
+echo "failed"
+fi 
+
+f_name=Will
+
+if [ $f_name = Will ]
+then
+echo "I like my job"
+then
+echo "I need to find a better job"
+fi 
